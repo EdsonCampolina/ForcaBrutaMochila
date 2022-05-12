@@ -1,0 +1,520 @@
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=2, peso=32, valor=6, valorPeso=0.19]
+ItemMochila [Id=0, peso=26, valor=13, valorPeso=0.50]
+ItemMochila [Id=1, peso=33, valor=30, valorPeso=0.91]
+Combinacoes [ids= {0}, peso=26, valor=13]
+Peso total dos itens da mochila = 91
+Tempo gasto criando a mochila de 3 itens : 2ms
+Tempo gasto no Algoritmo Bruto da mochila de 3 itens : 0ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=3, peso=24, valor=8, valorPeso=0.33]
+ItemMochila [Id=2, peso=17, valor=11, valorPeso=0.65]
+ItemMochila [Id=0, peso=19, valor=18, valorPeso=0.95]
+ItemMochila [Id=1, peso=33, valor=24, valorPeso=0.73]
+Combinacoes [ids= {0}, peso=19, valor=18]
+Peso total dos itens da mochila = 93
+Tempo gasto criando a mochila de 4 itens : 0ms
+Tempo gasto no Algoritmo Bruto da mochila de 4 itens : 0ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=2, peso=17, valor=15, valorPeso=0.88]
+ItemMochila [Id=0, peso=22, valor=17, valorPeso=0.77]
+ItemMochila [Id=3, peso=16, valor=26, valorPeso=1.63]
+ItemMochila [Id=1, peso=28, valor=31, valorPeso=1.11]
+ItemMochila [Id=4, peso=13, valor=32, valorPeso=2.46]
+Combinacoes [ids= {3,4}, peso=29, valor=58]
+Peso total dos itens da mochila = 96
+Tempo gasto criando a mochila de 5 itens : 0ms
+Tempo gasto no Algoritmo Bruto da mochila de 5 itens : 0ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=2, peso=23, valor=8, valorPeso=0.35]
+ItemMochila [Id=3, peso=21, valor=12, valorPeso=0.57]
+ItemMochila [Id=1, peso=21, valor=15, valorPeso=0.71]
+ItemMochila [Id=5, peso=9, valor=23, valorPeso=2.56]
+ItemMochila [Id=0, peso=8, valor=29, valorPeso=3.63]
+ItemMochila [Id=4, peso=18, valor=32, valorPeso=1.78]
+Combinacoes [ids= {0,4}, peso=26, valor=61]
+Peso total dos itens da mochila = 100
+Tempo gasto criando a mochila de 6 itens : 0ms
+Tempo gasto no Algoritmo Bruto da mochila de 6 itens : 0ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=1, peso=11, valor=3, valorPeso=0.27]
+ItemMochila [Id=6, peso=16, valor=6, valorPeso=0.38]
+ItemMochila [Id=0, peso=17, valor=7, valorPeso=0.41]
+ItemMochila [Id=2, peso=16, valor=8, valorPeso=0.50]
+ItemMochila [Id=4, peso=11, valor=11, valorPeso=1.00]
+ItemMochila [Id=5, peso=12, valor=15, valorPeso=1.25]
+ItemMochila [Id=3, peso=18, valor=30, valorPeso=1.67]
+Combinacoes [ids= {5,3}, peso=30, valor=45]
+Peso total dos itens da mochila = 101
+Tempo gasto criando a mochila de 7 itens : 0ms
+Tempo gasto no Algoritmo Bruto da mochila de 7 itens : 0ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=3, peso=13, valor=3, valorPeso=0.23]
+ItemMochila [Id=5, peso=11, valor=3, valorPeso=0.27]
+ItemMochila [Id=6, peso=13, valor=6, valorPeso=0.46]
+ItemMochila [Id=2, peso=12, valor=7, valorPeso=0.58]
+ItemMochila [Id=4, peso=14, valor=20, valorPeso=1.43]
+ItemMochila [Id=0, peso=12, valor=21, valorPeso=1.75]
+ItemMochila [Id=1, peso=13, valor=23, valorPeso=1.77]
+ItemMochila [Id=7, peso=13, valor=33, valorPeso=2.54]
+Combinacoes [ids= {1,7}, peso=26, valor=56]
+Peso total dos itens da mochila = 101
+Tempo gasto criando a mochila de 8 itens : 0ms
+Tempo gasto no Algoritmo Bruto da mochila de 8 itens : 0ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=8, peso=13, valor=2, valorPeso=0.15]
+ItemMochila [Id=4, peso=5, valor=3, valorPeso=0.60]
+ItemMochila [Id=6, peso=13, valor=9, valorPeso=0.69]
+ItemMochila [Id=0, peso=13, valor=21, valorPeso=1.62]
+ItemMochila [Id=7, peso=10, valor=22, valorPeso=2.20]
+ItemMochila [Id=3, peso=13, valor=25, valorPeso=1.92]
+ItemMochila [Id=5, peso=16, valor=30, valorPeso=1.88]
+ItemMochila [Id=2, peso=14, valor=31, valorPeso=2.21]
+ItemMochila [Id=1, peso=12, valor=34, valorPeso=2.83]
+Combinacoes [ids= {7,2,1}, peso=36, valor=87]
+Peso total dos itens da mochila = 109
+Tempo gasto criando a mochila de 9 itens : 1ms
+Tempo gasto no Algoritmo Bruto da mochila de 9 itens : 1ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=8, peso=12, valor=3, valorPeso=0.25]
+ItemMochila [Id=7, peso=9, valor=7, valorPeso=0.78]
+ItemMochila [Id=2, peso=13, valor=9, valorPeso=0.69]
+ItemMochila [Id=1, peso=9, valor=15, valorPeso=1.67]
+ItemMochila [Id=5, peso=14, valor=15, valorPeso=1.07]
+ItemMochila [Id=6, peso=10, valor=24, valorPeso=2.40]
+ItemMochila [Id=0, peso=14, valor=32, valorPeso=2.29]
+ItemMochila [Id=4, peso=17, valor=32, valorPeso=1.88]
+ItemMochila [Id=3, peso=9, valor=35, valorPeso=3.89]
+ItemMochila [Id=9, peso=8, valor=35, valorPeso=4.38]
+Combinacoes [ids= {1,6,3,9}, peso=36, valor=109]
+Peso total dos itens da mochila = 115
+Tempo gasto criando a mochila de 10 itens : 1ms
+Tempo gasto no Algoritmo Bruto da mochila de 10 itens : 1ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=6, peso=14, valor=5, valorPeso=0.36]
+ItemMochila [Id=10, peso=7, valor=8, valorPeso=1.14]
+ItemMochila [Id=0, peso=12, valor=9, valorPeso=0.75]
+ItemMochila [Id=1, peso=11, valor=9, valorPeso=0.82]
+ItemMochila [Id=7, peso=11, valor=13, valorPeso=1.18]
+ItemMochila [Id=9, peso=13, valor=14, valorPeso=1.08]
+ItemMochila [Id=4, peso=10, valor=19, valorPeso=1.90]
+ItemMochila [Id=8, peso=7, valor=27, valorPeso=3.86]
+ItemMochila [Id=2, peso=8, valor=28, valorPeso=3.50]
+ItemMochila [Id=5, peso=11, valor=29, valorPeso=2.64]
+ItemMochila [Id=3, peso=12, valor=37, valorPeso=3.08]
+Combinacoes [ids= {8,2,5,3}, peso=38, valor=121]
+Peso total dos itens da mochila = 116
+Tempo gasto criando a mochila de 11 itens : 1ms
+Tempo gasto no Algoritmo Bruto da mochila de 11 itens : 1ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=2, peso=14, valor=2, valorPeso=0.14]
+ItemMochila [Id=9, peso=10, valor=3, valorPeso=0.30]
+ItemMochila [Id=3, peso=10, valor=5, valorPeso=0.50]
+ItemMochila [Id=5, peso=6, valor=9, valorPeso=1.50]
+ItemMochila [Id=4, peso=12, valor=16, valorPeso=1.33]
+ItemMochila [Id=6, peso=10, valor=17, valorPeso=1.70]
+ItemMochila [Id=11, peso=9, valor=18, valorPeso=2.00]
+ItemMochila [Id=8, peso=6, valor=23, valorPeso=3.83]
+ItemMochila [Id=1, peso=9, valor=28, valorPeso=3.11]
+ItemMochila [Id=7, peso=12, valor=29, valorPeso=2.42]
+ItemMochila [Id=10, peso=8, valor=33, valorPeso=4.13]
+ItemMochila [Id=0, peso=8, valor=36, valorPeso=4.50]
+Combinacoes [ids= {5,8,1,10,0}, peso=37, valor=129]
+Peso total dos itens da mochila = 114
+Tempo gasto criando a mochila de 12 itens : 4ms
+Tempo gasto no Algoritmo Bruto da mochila de 12 itens : 3ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=1, peso=6, valor=3, valorPeso=0.50]
+ItemMochila [Id=3, peso=7, valor=3, valorPeso=0.43]
+ItemMochila [Id=9, peso=14, valor=6, valorPeso=0.43]
+ItemMochila [Id=11, peso=9, valor=7, valorPeso=0.78]
+ItemMochila [Id=4, peso=7, valor=13, valorPeso=1.86]
+ItemMochila [Id=10, peso=7, valor=13, valorPeso=1.86]
+ItemMochila [Id=2, peso=5, valor=15, valorPeso=3.00]
+ItemMochila [Id=7, peso=13, valor=15, valorPeso=1.15]
+ItemMochila [Id=12, peso=13, valor=16, valorPeso=1.23]
+ItemMochila [Id=5, peso=13, valor=18, valorPeso=1.38]
+ItemMochila [Id=0, peso=5, valor=23, valorPeso=4.60]
+ItemMochila [Id=6, peso=8, valor=31, valorPeso=3.88]
+ItemMochila [Id=8, peso=12, valor=38, valorPeso=3.17]
+Combinacoes [ids= {4,2,0,6,8}, peso=37, valor=120]
+Combinacoes [ids= {10,2,0,6,8}, peso=37, valor=120]
+Peso total dos itens da mochila = 119
+Tempo gasto criando a mochila de 13 itens : 3ms
+Tempo gasto no Algoritmo Bruto da mochila de 13 itens : 3ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=7, peso=8, valor=1, valorPeso=0.13]
+ItemMochila [Id=0, peso=11, valor=2, valorPeso=0.18]
+ItemMochila [Id=11, peso=8, valor=3, valorPeso=0.38]
+ItemMochila [Id=2, peso=11, valor=5, valorPeso=0.45]
+ItemMochila [Id=1, peso=6, valor=6, valorPeso=1.00]
+ItemMochila [Id=13, peso=8, valor=7, valorPeso=0.88]
+ItemMochila [Id=9, peso=7, valor=8, valorPeso=1.14]
+ItemMochila [Id=6, peso=9, valor=9, valorPeso=1.00]
+ItemMochila [Id=5, peso=5, valor=12, valorPeso=2.40]
+ItemMochila [Id=12, peso=6, valor=18, valorPeso=3.00]
+ItemMochila [Id=3, peso=10, valor=29, valorPeso=2.90]
+ItemMochila [Id=10, peso=10, valor=31, valorPeso=3.10]
+ItemMochila [Id=8, peso=9, valor=33, valorPeso=3.67]
+ItemMochila [Id=4, peso=10, valor=37, valorPeso=3.70]
+Combinacoes [ids= {5,12,10,8,4}, peso=40, valor=131]
+Peso total dos itens da mochila = 118
+Tempo gasto criando a mochila de 14 itens : 5ms
+Tempo gasto no Algoritmo Bruto da mochila de 14 itens : 4ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=5, peso=11, valor=1, valorPeso=0.09]
+ItemMochila [Id=12, peso=7, valor=10, valorPeso=1.43]
+ItemMochila [Id=3, peso=8, valor=12, valorPeso=1.50]
+ItemMochila [Id=14, peso=7, valor=13, valorPeso=1.86]
+ItemMochila [Id=2, peso=10, valor=15, valorPeso=1.50]
+ItemMochila [Id=4, peso=8, valor=19, valorPeso=2.38]
+ItemMochila [Id=9, peso=8, valor=20, valorPeso=2.50]
+ItemMochila [Id=11, peso=6, valor=26, valorPeso=4.33]
+ItemMochila [Id=0, peso=9, valor=28, valorPeso=3.11]
+ItemMochila [Id=7, peso=10, valor=30, valorPeso=3.00]
+ItemMochila [Id=10, peso=7, valor=35, valorPeso=5.00]
+ItemMochila [Id=8, peso=7, valor=37, valorPeso=5.29]
+ItemMochila [Id=1, peso=11, valor=39, valorPeso=3.55]
+ItemMochila [Id=13, peso=10, valor=39, valorPeso=3.90]
+ItemMochila [Id=6, peso=10, valor=40, valorPeso=4.00]
+Combinacoes [ids= {11,10,8,1,6}, peso=41, valor=177]
+Peso total dos itens da mochila = 129
+Tempo gasto criando a mochila de 15 itens : 9ms
+Tempo gasto no Algoritmo Bruto da mochila de 15 itens : 9ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=13, peso=10, valor=2, valorPeso=0.20]
+ItemMochila [Id=8, peso=8, valor=4, valorPeso=0.50]
+ItemMochila [Id=3, peso=6, valor=5, valorPeso=0.83]
+ItemMochila [Id=2, peso=7, valor=9, valorPeso=1.29]
+ItemMochila [Id=10, peso=11, valor=17, valorPeso=1.55]
+ItemMochila [Id=6, peso=10, valor=20, valorPeso=2.00]
+ItemMochila [Id=14, peso=9, valor=22, valorPeso=2.44]
+ItemMochila [Id=15, peso=9, valor=29, valorPeso=3.22]
+ItemMochila [Id=0, peso=9, valor=31, valorPeso=3.44]
+ItemMochila [Id=7, peso=8, valor=31, valorPeso=3.88]
+ItemMochila [Id=1, peso=8, valor=32, valorPeso=4.00]
+ItemMochila [Id=9, peso=9, valor=37, valorPeso=4.11]
+ItemMochila [Id=4, peso=8, valor=39, valorPeso=4.88]
+ItemMochila [Id=11, peso=10, valor=39, valorPeso=3.90]
+ItemMochila [Id=5, peso=7, valor=40, valorPeso=5.71]
+ItemMochila [Id=12, peso=8, valor=41, valorPeso=5.13]
+Combinacoes [ids= {9,4,11,5,12}, peso=42, valor=196]
+Peso total dos itens da mochila = 137
+Tempo gasto criando a mochila de 16 itens : 18ms
+Tempo gasto no Algoritmo Bruto da mochila de 16 itens : 18ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=8, peso=7, valor=1, valorPeso=0.14]
+ItemMochila [Id=15, peso=7, valor=7, valorPeso=1.00]
+ItemMochila [Id=10, peso=6, valor=8, valorPeso=1.33]
+ItemMochila [Id=16, peso=10, valor=8, valorPeso=0.80]
+ItemMochila [Id=12, peso=9, valor=10, valorPeso=1.11]
+ItemMochila [Id=5, peso=6, valor=11, valorPeso=1.83]
+ItemMochila [Id=3, peso=8, valor=21, valorPeso=2.63]
+ItemMochila [Id=6, peso=6, valor=24, valorPeso=4.00]
+ItemMochila [Id=1, peso=8, valor=26, valorPeso=3.25]
+ItemMochila [Id=4, peso=6, valor=26, valorPeso=4.33]
+ItemMochila [Id=14, peso=8, valor=26, valorPeso=3.25]
+ItemMochila [Id=0, peso=5, valor=27, valorPeso=5.40]
+ItemMochila [Id=2, peso=11, valor=34, valorPeso=3.09]
+ItemMochila [Id=11, peso=5, valor=37, valorPeso=7.40]
+ItemMochila [Id=13, peso=9, valor=37, valorPeso=4.11]
+ItemMochila [Id=7, peso=10, valor=42, valorPeso=4.20]
+ItemMochila [Id=9, peso=5, valor=42, valorPeso=8.40]
+Combinacoes [ids= {6,1,4,0,11,13,9}, peso=44, valor=219]
+Combinacoes [ids= {6,4,14,0,11,13,9}, peso=44, valor=219]
+Peso total dos itens da mochila = 126
+Tempo gasto criando a mochila de 17 itens : 18ms
+Tempo gasto no Algoritmo Bruto da mochila de 17 itens : 18ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=15, peso=7, valor=2, valorPeso=0.29]
+ItemMochila [Id=1, peso=7, valor=4, valorPeso=0.57]
+ItemMochila [Id=14, peso=9, valor=4, valorPeso=0.44]
+ItemMochila [Id=16, peso=7, valor=11, valorPeso=1.57]
+ItemMochila [Id=4, peso=5, valor=12, valorPeso=2.40]
+ItemMochila [Id=7, peso=10, valor=12, valorPeso=1.20]
+ItemMochila [Id=13, peso=10, valor=13, valorPeso=1.30]
+ItemMochila [Id=6, peso=11, valor=18, valorPeso=1.64]
+ItemMochila [Id=9, peso=10, valor=19, valorPeso=1.90]
+ItemMochila [Id=8, peso=7, valor=20, valorPeso=2.86]
+ItemMochila [Id=2, peso=10, valor=21, valorPeso=2.10]
+ItemMochila [Id=10, peso=7, valor=22, valorPeso=3.14]
+ItemMochila [Id=0, peso=7, valor=25, valorPeso=3.57]
+ItemMochila [Id=3, peso=8, valor=33, valorPeso=4.13]
+ItemMochila [Id=12, peso=6, valor=35, valorPeso=5.83]
+ItemMochila [Id=11, peso=6, valor=40, valorPeso=6.67]
+ItemMochila [Id=5, peso=5, valor=42, valorPeso=8.40]
+ItemMochila [Id=17, peso=8, valor=45, valorPeso=5.63]
+Combinacoes [ids= {4,0,3,12,11,5,17}, peso=45, valor=232]
+Peso total dos itens da mochila = 140
+Tempo gasto criando a mochila de 18 itens : 24ms
+Tempo gasto no Algoritmo Bruto da mochila de 18 itens : 24ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=3, peso=6, valor=5, valorPeso=0.83]
+ItemMochila [Id=13, peso=8, valor=6, valorPeso=0.75]
+ItemMochila [Id=0, peso=4, valor=10, valorPeso=2.50]
+ItemMochila [Id=7, peso=9, valor=12, valorPeso=1.33]
+ItemMochila [Id=9, peso=6, valor=12, valorPeso=2.00]
+ItemMochila [Id=16, peso=5, valor=15, valorPeso=3.00]
+ItemMochila [Id=14, peso=9, valor=16, valorPeso=1.78]
+ItemMochila [Id=10, peso=9, valor=19, valorPeso=2.11]
+ItemMochila [Id=12, peso=9, valor=19, valorPeso=2.11]
+ItemMochila [Id=8, peso=7, valor=20, valorPeso=2.86]
+ItemMochila [Id=5, peso=8, valor=27, valorPeso=3.38]
+ItemMochila [Id=2, peso=5, valor=29, valorPeso=5.80]
+ItemMochila [Id=15, peso=4, valor=32, valorPeso=8.00]
+ItemMochila [Id=17, peso=10, valor=34, valorPeso=3.40]
+ItemMochila [Id=11, peso=6, valor=38, valorPeso=6.33]
+ItemMochila [Id=1, peso=10, valor=43, valorPeso=4.30]
+ItemMochila [Id=18, peso=6, valor=43, valorPeso=7.17]
+ItemMochila [Id=6, peso=10, valor=45, valorPeso=4.50]
+ItemMochila [Id=4, peso=7, valor=46, valorPeso=6.57]
+Combinacoes [ids= {5,2,15,11,18,6,4}, peso=46, valor=260]
+Peso total dos itens da mochila = 138
+Tempo gasto criando a mochila de 19 itens : 43ms
+Tempo gasto no Algoritmo Bruto da mochila de 19 itens : 43ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=13, peso=5, valor=1, valorPeso=0.20]
+ItemMochila [Id=11, peso=6, valor=6, valorPeso=1.00]
+ItemMochila [Id=5, peso=6, valor=8, valorPeso=1.33]
+ItemMochila [Id=10, peso=6, valor=9, valorPeso=1.50]
+ItemMochila [Id=16, peso=9, valor=9, valorPeso=1.00]
+ItemMochila [Id=0, peso=10, valor=14, valorPeso=1.40]
+ItemMochila [Id=2, peso=4, valor=15, valorPeso=3.75]
+ItemMochila [Id=12, peso=8, valor=15, valorPeso=1.88]
+ItemMochila [Id=1, peso=6, valor=16, valorPeso=2.67]
+ItemMochila [Id=6, peso=7, valor=18, valorPeso=2.57]
+ItemMochila [Id=14, peso=7, valor=23, valorPeso=3.29]
+ItemMochila [Id=18, peso=8, valor=23, valorPeso=2.88]
+ItemMochila [Id=8, peso=8, valor=26, valorPeso=3.25]
+ItemMochila [Id=4, peso=9, valor=29, valorPeso=3.22]
+ItemMochila [Id=3, peso=6, valor=35, valorPeso=5.83]
+ItemMochila [Id=19, peso=8, valor=40, valorPeso=5.00]
+ItemMochila [Id=7, peso=6, valor=42, valorPeso=7.00]
+ItemMochila [Id=15, peso=8, valor=43, valorPeso=5.38]
+ItemMochila [Id=9, peso=5, valor=45, valorPeso=9.00]
+ItemMochila [Id=17, peso=6, valor=45, valorPeso=7.50]
+Combinacoes [ids= {8,3,19,7,15,9,17}, peso=47, valor=276]
+Peso total dos itens da mochila = 138
+Tempo gasto criando a mochila de 20 itens : 97ms
+Tempo gasto no Algoritmo Bruto da mochila de 20 itens : 96ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=6, peso=5, valor=1, valorPeso=0.20]
+ItemMochila [Id=19, peso=10, valor=3, valorPeso=0.30]
+ItemMochila [Id=13, peso=9, valor=7, valorPeso=0.78]
+ItemMochila [Id=14, peso=8, valor=7, valorPeso=0.88]
+ItemMochila [Id=4, peso=5, valor=12, valorPeso=2.40]
+ItemMochila [Id=1, peso=5, valor=22, valorPeso=4.40]
+ItemMochila [Id=9, peso=8, valor=22, valorPeso=2.75]
+ItemMochila [Id=20, peso=7, valor=22, valorPeso=3.14]
+ItemMochila [Id=18, peso=9, valor=25, valorPeso=2.78]
+ItemMochila [Id=15, peso=5, valor=27, valorPeso=5.40]
+ItemMochila [Id=3, peso=4, valor=29, valorPeso=7.25]
+ItemMochila [Id=11, peso=5, valor=29, valorPeso=5.80]
+ItemMochila [Id=12, peso=6, valor=31, valorPeso=5.17]
+ItemMochila [Id=0, peso=10, valor=32, valorPeso=3.20]
+ItemMochila [Id=8, peso=8, valor=32, valorPeso=4.00]
+ItemMochila [Id=2, peso=9, valor=33, valorPeso=3.67]
+ItemMochila [Id=5, peso=4, valor=34, valorPeso=8.50]
+ItemMochila [Id=17, peso=8, valor=35, valorPeso=4.38]
+ItemMochila [Id=16, peso=7, valor=41, valorPeso=5.86]
+ItemMochila [Id=7, peso=5, valor=46, valorPeso=9.20]
+ItemMochila [Id=10, peso=7, valor=48, valorPeso=6.86]
+Combinacoes [ids= {1,15,3,11,12,5,16,7,10}, peso=48, valor=307]
+Peso total dos itens da mochila = 144
+Tempo gasto criando a mochila de 21 itens : 189ms
+Tempo gasto no Algoritmo Bruto da mochila de 21 itens : 189ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=14, peso=5, valor=2, valorPeso=0.40]
+ItemMochila [Id=16, peso=8, valor=2, valorPeso=0.25]
+ItemMochila [Id=6, peso=5, valor=6, valorPeso=1.20]
+ItemMochila [Id=4, peso=9, valor=7, valorPeso=0.78]
+ItemMochila [Id=15, peso=9, valor=8, valorPeso=0.89]
+ItemMochila [Id=18, peso=7, valor=9, valorPeso=1.29]
+ItemMochila [Id=1, peso=4, valor=16, valorPeso=4.00]
+ItemMochila [Id=0, peso=4, valor=19, valorPeso=4.75]
+ItemMochila [Id=19, peso=9, valor=21, valorPeso=2.33]
+ItemMochila [Id=11, peso=6, valor=23, valorPeso=3.83]
+ItemMochila [Id=13, peso=8, valor=27, valorPeso=3.38]
+ItemMochila [Id=21, peso=8, valor=28, valorPeso=3.50]
+ItemMochila [Id=8, peso=7, valor=29, valorPeso=4.14]
+ItemMochila [Id=12, peso=9, valor=32, valorPeso=3.56]
+ItemMochila [Id=17, peso=4, valor=32, valorPeso=8.00]
+ItemMochila [Id=7, peso=6, valor=33, valorPeso=5.50]
+ItemMochila [Id=5, peso=5, valor=34, valorPeso=6.80]
+ItemMochila [Id=2, peso=6, valor=36, valorPeso=6.00]
+ItemMochila [Id=20, peso=5, valor=36, valorPeso=7.20]
+ItemMochila [Id=3, peso=8, valor=42, valorPeso=5.25]
+ItemMochila [Id=9, peso=4, valor=44, valorPeso=11.00]
+ItemMochila [Id=10, peso=5, valor=48, valorPeso=9.60]
+Combinacoes [ids= {11,17,7,5,2,20,3,9,10}, peso=49, valor=328]
+Peso total dos itens da mochila = 141
+Tempo gasto criando a mochila de 22 itens : 364ms
+Tempo gasto no Algoritmo Bruto da mochila de 22 itens : 364ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=12, peso=7, valor=6, valorPeso=0.86]
+ItemMochila [Id=17, peso=6, valor=10, valorPeso=1.67]
+ItemMochila [Id=20, peso=7, valor=10, valorPeso=1.43]
+ItemMochila [Id=0, peso=6, valor=13, valorPeso=2.17]
+ItemMochila [Id=16, peso=8, valor=13, valorPeso=1.63]
+ItemMochila [Id=10, peso=6, valor=16, valorPeso=2.67]
+ItemMochila [Id=7, peso=8, valor=17, valorPeso=2.13]
+ItemMochila [Id=13, peso=6, valor=17, valorPeso=2.83]
+ItemMochila [Id=9, peso=5, valor=19, valorPeso=3.80]
+ItemMochila [Id=6, peso=5, valor=20, valorPeso=4.00]
+ItemMochila [Id=11, peso=6, valor=23, valorPeso=3.83]
+ItemMochila [Id=1, peso=7, valor=24, valorPeso=3.43]
+ItemMochila [Id=22, peso=8, valor=24, valorPeso=3.00]
+ItemMochila [Id=2, peso=6, valor=30, valorPeso=5.00]
+ItemMochila [Id=4, peso=7, valor=30, valorPeso=4.29]
+ItemMochila [Id=15, peso=6, valor=31, valorPeso=5.17]
+ItemMochila [Id=18, peso=5, valor=32, valorPeso=6.40]
+ItemMochila [Id=19, peso=10, valor=34, valorPeso=3.40]
+ItemMochila [Id=3, peso=8, valor=38, valorPeso=4.75]
+ItemMochila [Id=14, peso=8, valor=40, valorPeso=5.00]
+ItemMochila [Id=21, peso=4, valor=45, valorPeso=11.25]
+ItemMochila [Id=5, peso=4, valor=48, valorPeso=12.00]
+ItemMochila [Id=8, peso=5, valor=49, valorPeso=9.80]
+Combinacoes [ids= {6,2,4,15,18,14,21,5,8}, peso=50, valor=325]
+Peso total dos itens da mochila = 148
+Tempo gasto criando a mochila de 23 itens : 779ms
+Tempo gasto no Algoritmo Bruto da mochila de 23 itens : 779ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=4, peso=5, valor=6, valorPeso=1.20]
+ItemMochila [Id=3, peso=4, valor=8, valorPeso=2.00]
+ItemMochila [Id=23, peso=5, valor=15, valorPeso=3.00]
+ItemMochila [Id=6, peso=9, valor=16, valorPeso=1.78]
+ItemMochila [Id=11, peso=8, valor=18, valorPeso=2.25]
+ItemMochila [Id=19, peso=7, valor=18, valorPeso=2.57]
+ItemMochila [Id=0, peso=7, valor=21, valorPeso=3.00]
+ItemMochila [Id=18, peso=4, valor=21, valorPeso=5.25]
+ItemMochila [Id=15, peso=4, valor=22, valorPeso=5.50]
+ItemMochila [Id=5, peso=8, valor=23, valorPeso=2.88]
+ItemMochila [Id=10, peso=7, valor=30, valorPeso=4.29]
+ItemMochila [Id=14, peso=9, valor=31, valorPeso=3.44]
+ItemMochila [Id=2, peso=8, valor=34, valorPeso=4.25]
+ItemMochila [Id=13, peso=7, valor=34, valorPeso=4.86]
+ItemMochila [Id=21, peso=4, valor=34, valorPeso=8.50]
+ItemMochila [Id=12, peso=8, valor=37, valorPeso=4.63]
+ItemMochila [Id=17, peso=6, valor=37, valorPeso=6.17]
+ItemMochila [Id=1, peso=9, valor=38, valorPeso=4.22]
+ItemMochila [Id=7, peso=10, valor=41, valorPeso=4.10]
+ItemMochila [Id=22, peso=6, valor=41, valorPeso=6.83]
+ItemMochila [Id=20, peso=7, valor=42, valorPeso=6.00]
+ItemMochila [Id=16, peso=8, valor=43, valorPeso=5.38]
+ItemMochila [Id=9, peso=4, valor=46, valorPeso=11.50]
+ItemMochila [Id=8, peso=9, valor=50, valorPeso=5.56]
+Combinacoes [ids= {13,21,17,22,20,16,9,8}, peso=51, valor=327]
+Combinacoes [ids= {18,15,13,21,17,22,20,9,8}, peso=51, valor=327]
+Peso total dos itens da mochila = 163
+Tempo gasto criando a mochila de 24 itens : 1600ms
+Tempo gasto no Algoritmo Bruto da mochila de 24 itens : 1600ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=18, peso=5, valor=3, valorPeso=0.60]
+ItemMochila [Id=12, peso=5, valor=7, valorPeso=1.40]
+ItemMochila [Id=17, peso=7, valor=7, valorPeso=1.00]
+ItemMochila [Id=22, peso=7, valor=10, valorPeso=1.43]
+ItemMochila [Id=24, peso=5, valor=12, valorPeso=2.40]
+ItemMochila [Id=11, peso=5, valor=17, valorPeso=3.40]
+ItemMochila [Id=2, peso=8, valor=19, valorPeso=2.38]
+ItemMochila [Id=1, peso=6, valor=21, valorPeso=3.50]
+ItemMochila [Id=21, peso=5, valor=23, valorPeso=4.60]
+ItemMochila [Id=9, peso=8, valor=24, valorPeso=3.00]
+ItemMochila [Id=13, peso=3, valor=24, valorPeso=8.00]
+ItemMochila [Id=19, peso=4, valor=26, valorPeso=6.50]
+ItemMochila [Id=10, peso=7, valor=30, valorPeso=4.29]
+ItemMochila [Id=0, peso=7, valor=34, valorPeso=4.86]
+ItemMochila [Id=6, peso=5, valor=35, valorPeso=7.00]
+ItemMochila [Id=14, peso=5, valor=35, valorPeso=7.00]
+ItemMochila [Id=3, peso=6, valor=38, valorPeso=6.33]
+ItemMochila [Id=7, peso=6, valor=38, valorPeso=6.33]
+ItemMochila [Id=20, peso=6, valor=41, valorPeso=6.83]
+ItemMochila [Id=5, peso=3, valor=43, valorPeso=14.33]
+ItemMochila [Id=8, peso=3, valor=45, valorPeso=15.00]
+ItemMochila [Id=15, peso=8, valor=46, valorPeso=5.75]
+ItemMochila [Id=4, peso=8, valor=51, valorPeso=6.38]
+ItemMochila [Id=16, peso=5, valor=51, valorPeso=10.20]
+ItemMochila [Id=23, peso=4, valor=52, valorPeso=13.00]
+Combinacoes [ids= {13,19,6,14,3,20,5,8,4,16,23}, peso=52, valor=441]
+Combinacoes [ids= {13,19,6,14,7,20,5,8,4,16,23}, peso=52, valor=441]
+Peso total dos itens da mochila = 141
+Tempo gasto criando a mochila de 25 itens : 3438ms
+Tempo gasto no Algoritmo Bruto da mochila de 25 itens : 3438ms
+
+
+CRIANDO NOVA MOCHILA:
+ItemMochila [Id=12, peso=3, valor=1, valorPeso=0.33]
+ItemMochila [Id=0, peso=5, valor=3, valorPeso=0.60]
+ItemMochila [Id=22, peso=6, valor=3, valorPeso=0.50]
+ItemMochila [Id=7, peso=8, valor=7, valorPeso=0.88]
+ItemMochila [Id=8, peso=6, valor=7, valorPeso=1.17]
+ItemMochila [Id=21, peso=5, valor=8, valorPeso=1.60]
+ItemMochila [Id=1, peso=7, valor=15, valorPeso=2.14]
+ItemMochila [Id=2, peso=8, valor=20, valorPeso=2.50]
+ItemMochila [Id=3, peso=4, valor=20, valorPeso=5.00]
+ItemMochila [Id=17, peso=8, valor=24, valorPeso=3.00]
+ItemMochila [Id=16, peso=9, valor=27, valorPeso=3.00]
+ItemMochila [Id=6, peso=7, valor=28, valorPeso=4.00]
+ItemMochila [Id=23, peso=6, valor=28, valorPeso=4.67]
+ItemMochila [Id=14, peso=6, valor=32, valorPeso=5.33]
+ItemMochila [Id=13, peso=5, valor=36, valorPeso=7.20]
+ItemMochila [Id=25, peso=8, valor=40, valorPeso=5.00]
+ItemMochila [Id=15, peso=5, valor=41, valorPeso=8.20]
+ItemMochila [Id=11, peso=7, valor=43, valorPeso=6.14]
+ItemMochila [Id=5, peso=3, valor=45, valorPeso=15.00]
+ItemMochila [Id=4, peso=4, valor=46, valorPeso=11.50]
+ItemMochila [Id=9, peso=8, valor=46, valorPeso=5.75]
+ItemMochila [Id=10, peso=4, valor=48, valorPeso=12.00]
+ItemMochila [Id=19, peso=6, valor=51, valorPeso=8.50]
+ItemMochila [Id=20, peso=4, valor=51, valorPeso=12.75]
+ItemMochila [Id=18, peso=4, valor=53, valorPeso=13.25]
+ItemMochila [Id=24, peso=6, valor=53, valorPeso=8.83]
+Combinacoes [ids= {3,13,15,5,4,9,10,19,20,18,24}, peso=53, valor=490]
+Peso total dos itens da mochila = 152
+Tempo gasto criando a mochila de 26 itens : 7117ms
+Tempo gasto no Algoritmo Bruto da mochila de 26 itens : 7117ms
+
+
